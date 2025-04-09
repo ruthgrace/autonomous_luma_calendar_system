@@ -124,6 +124,13 @@ Here are some exciting potential features for future development:
 
 We welcome contributions! Please see our contributing guidelines for more details.
 
+## To Do
+
+* add ability to set a nonstandard location (e.g. event for commons people that is not actually at the commons)
+* add support for automatically submitting Luma events to the Commons Luma calendar if someone's added the commons gmail as a cohost but forgot to submit the event to the luma calendar
+* [just for Ruth's parent circle for now to pilot] add support for converting an event into a recurring event (maybe with a cron job to automatically make future events) at most 3 months in advance
+  * add support for removing or updating recurring events
+
 ## Support
 
 Need help? Reach out on [Slack](https://thesfcommons.slack.com/archives/C08BGQEM3NG)
